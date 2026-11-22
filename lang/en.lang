@@ -1,0 +1,14 @@
+description=Private messages: /msg and /r, with ignore and social spy.
+permission_use=Send private messages with /msg and /r.
+command_msg=Send a private message to a player.
+command_reply=Answer the last private message.
+players_only=Only players can use this command. The console keeps minecraft:msg.
+no_permission=You do not have permission to use that command.
+to=[me -> {0}] {1}
+from=[{0} -> me] {1}
+spy=[spy] {0} -> {1}: {2}
+not_found=That player is not online.
+self=You cannot send a private message to yourself.
+empty=Write a message after the name.
+too_long=That message is too long.
+no_reply=Nobody has sent you a private message yet.

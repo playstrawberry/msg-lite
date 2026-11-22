@@ -1,0 +1,14 @@
+description=Özel mesajlar: /msg ve /r, ignore ve social spy ile.
+permission_use=/msg ve /r ile özel mesaj gönder.
+command_msg=Bir oyuncuya özel mesaj gönder.
+command_reply=Son özel mesajı yanıtla.
+players_only=Bu komutu yalnızca oyuncular kullanabilir. Konsolda minecraft:msg kullanılır.
+no_permission=Bu komut için permission sahibi değilsin.
+to=[ben -> {0}] {1}
+from=[{0} -> ben] {1}
+spy=[spy] {0} -> {1}: {2}
+not_found=Bu oyuncu çevrimiçi değil.
+self=Kendine özel mesaj gönderemezsin.
+empty=Adın ardından bir mesaj yaz.
+too_long=Bu mesaj çok uzun.
+no_reply=Henüz kimse sana özel mesaj göndermedi.
